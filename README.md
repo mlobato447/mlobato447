@@ -3,6 +3,7 @@
 
 ### &nbsp;&nbsp;Olá, Mundo!:wave:  
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.  
+##
   <h4> :rocket: &nbsp;Conhecimentos: </h4>
   
   > **Linguagens e Frameworks**
@@ -18,11 +19,12 @@
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ##
  
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlobato447&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlobato447&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <a href="https://github.com/EduardoMarques-Dev">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mlobato447&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlobato447&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
