@@ -1,7 +1,7 @@
 
-### Prazer:wave:  
+### Prazer <img src="https://raw.githubusercontent.com/mlobato447/mlobato447/main/wave.gif" width="30"> 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**. 
-#
+- ~~Desempregado~~ Autônomo com sede de ~~dinheiro~~ conhecimento.
 
 <div align="center">
   <div>
